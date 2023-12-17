@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://tanno04.github.io/Tanveers.github.io/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://tanno04.github.io/Portfolio" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
